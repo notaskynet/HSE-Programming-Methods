@@ -1,0 +1,13 @@
+<map id="src/sorts.cpp" name="src/sorts.cpp">
+<area shape="rect" id="Node000001" title="Реализация различных алгоритмов сортировки для объектов класса Ship." alt="" coords="71,5,168,31"/>
+<area shape="rect" id="Node000002" href="$sorts_8h.html" title="Определение алгоритмов сортировки для вектора объектов Ship." alt="" coords="43,79,105,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,33,92,67,87,64,110,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="129,79,203,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="129,30,152,64,148,67,125,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,63,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,106,50,140,46,138,65,104"/>
+<area shape="rect" id="Node000004" href="$ship_8h.html" title="Определение класса Ship для представления информации о корабле." alt="" coords="87,153,144,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="83,104,103,138,98,141,79,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="89,226,142,252"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="118,179,118,211,113,211,113,179"/>
+</map>

@@ -1,0 +1,27 @@
+PROJECT_NAME           = Lab-01
+
+INPUT                  = src utils
+
+FILE_PATTERNS          = *.cpp *.h *.py
+
+RECURSIVE              = YES
+
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+
+# Может понадобиться Graphviz
+HAVE_DOT              = YES
+DOT_IMAGE_FORMAT      = png
+DOT_PATH              = 
+CLASS_DIAGRAMS        = YES
+
+OUTPUT_DIRECTORY      = docs
+
+SOURCE_BROWSER        = YES
+INLINE_SOURCES        = YES
+VERBATIM_HEADERS      = YES
+
+GENERATE_TREEVIEW     = YES
